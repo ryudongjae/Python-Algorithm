@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bf17ac7-7357-4341-b22f-15bf95daef05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_Sturcture/Stack/recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_Sturcture/Stack/stack01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_Sturcture/Stack/stack02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615448534509</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update">
+      <created>1615460120956</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615460120956</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
