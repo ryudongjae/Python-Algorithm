@@ -27,6 +27,8 @@ class NodeMgmt:
         if self.head =='':
             print("해당 값을 가진 노드가 없습니다.")
             return
+
+
         if self.head.data ==data:
             temp = self.head
             self.head = self.head.next
