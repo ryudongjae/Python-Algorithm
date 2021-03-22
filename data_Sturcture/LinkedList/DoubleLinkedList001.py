@@ -29,8 +29,41 @@ class NodeMgmt:
             print(node.data)
             node = node.next
 
+    def search_from_head(self, data):
+        if self.head == None:
+            return False
+
+        node = self.head
+        while node:
+            if node.data == data:
+                return node
+            else:
+                node = node.next
+        return False
+
+    def search_from_tail(self, data):
+        if self.head == None:
+            return False
+
+        node = self.tail
+        while node:
+            if node.data == data:
+                return node
+            else:
+                node = node.prev
+        return False
+
+
 
 double_linked_list = NodeMgmt(0)
 for data in range(1, 10):
     double_linked_list.insert(data)
 print(double_linked_list.desc())
+
+
+node1 = double_linked_list.search_from_head(3)
+print(node1.data)
+
+
+node1 = double_linked_list.search_from_tail(5)
+print(node1.data)
