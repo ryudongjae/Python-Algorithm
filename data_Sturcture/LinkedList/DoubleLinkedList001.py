@@ -53,6 +53,23 @@ class NodeMgmt:
                 node = node.prev
         return False
 
+    def insert_before(self, data, before_data):
+        if self.head == None:
+            self.head = Node(data)
+            return True
+        else:
+            node = self.tail
+            while node.data != before_data:
+                node = node.prev
+                if node == None:
+                    return False
+            new = Node(data)
+            before_new = node.prev
+            before_new.next = new
+            new.prev = before_new
+            new.next = node
+            node.prev = new
+            return True
 
 
 double_linked_list = NodeMgmt(0)
@@ -61,9 +78,5 @@ for data in range(1, 10):
 print(double_linked_list.desc())
 
 
-node1 = double_linked_list.search_from_head(3)
-print(node1.data)
-
-
-node1 = double_linked_list.search_from_tail(5)
-print(node1.data)
+double_linked_list.insert_before(2.2 , 3)
+print(double_linked_list.desc())
