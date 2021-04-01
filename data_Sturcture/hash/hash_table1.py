@@ -19,6 +19,8 @@ save_data("SIM","0002")
 
 print(read_data("SIM"))
 
+print(hash_table)
+
 
 
 
