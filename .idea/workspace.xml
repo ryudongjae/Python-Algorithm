@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2bf17ac7-7357-4341-b22f-15bf95daef05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_Sturcture/hash/hash_table3.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_Sturcture/hash/hash_table3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +46,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_Sturcture/LinkedList" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_Sturcture/hash" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_Sturcture/hash" />
       <recent name="$PROJECT_DIR$/data_Sturcture/LinkedList" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data_Sturcture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stack02">
-    <configuration name="DoubleLinkedList001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hash_table3">
+    <configuration name="hash_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/hash" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/LinkedList/DoubleLinkedList001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/hash/hash_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LifoQueue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hash_table1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/Queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/hash" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/Queue/LifoQueue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/hash/hash_table1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Queue01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hash_table2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +111,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/Queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/hash" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/Queue/Queue01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/hash/hash_table2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hash_table3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/hash" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/hash/hash_table3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,28 +161,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stack01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_Sturcture/Stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_Sturcture/Stack/stack01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hash_table3" />
+        <item itemvalue="Python.hash_table2" />
+        <item itemvalue="Python.hash_table1" />
+        <item itemvalue="Python.hash_table" />
         <item itemvalue="Python.stack02" />
-        <item itemvalue="Python.stack01" />
-        <item itemvalue="Python.LifoQueue" />
-        <item itemvalue="Python.Queue01" />
-        <item itemvalue="Python.DoubleLinkedList001" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +216,12 @@
       <workItem from="1616830066329" duration="358000" />
       <workItem from="1616830438682" duration="307000" />
       <workItem from="1616830751244" duration="3398000" />
+      <workItem from="1616835406547" duration="593000" />
+      <workItem from="1617150063335" duration="22000" />
+      <workItem from="1617150089189" duration="152000" />
+      <workItem from="1617209785504" duration="1000" />
+      <workItem from="1617251056631" duration="5564000" />
+      <workItem from="1617260972571" duration="3748000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Update">
       <created>1615351081932</created>
@@ -348,7 +356,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616835286024</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="LinkedList">
+      <created>1616835414292</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616835414292</updated>
+    </task>
+    <task id="LOCAL-00021" summary="hash_table">
+      <created>1617256232240</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1617256232240</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Hash_table1&#10;Hash_table2(chaining)&#10;Hash_table1(probing)">
+      <created>1617265786344</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1617265786344</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,10 +399,12 @@
     <MESSAGE value="Commit Update" />
     <MESSAGE value="Update" />
     <MESSAGE value="Commit" />
-    <MESSAGE value="LinkedList" />
     <MESSAGE value="double LinkedList" />
     <MESSAGE value="LinkedList004.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList004.py" />
+    <MESSAGE value="LinkedList" />
+    <MESSAGE value="hash_table" />
+    <MESSAGE value="Hash_table1&#10;Hash_table2(chaining)&#10;Hash_table1(probing)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hash_table1&#10;Hash_table2(chaining)&#10;Hash_table1(probing)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -390,9 +421,13 @@
     <SUITE FILE_PATH="coverage/Python_Algorithm$LifoQueue.coverage" NAME="LifoQueue Coverage Results" MODIFIED="1616830099266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/Queue" />
     <SUITE FILE_PATH="coverage/Python_Algorithm$stack01.coverage" NAME="stack01 Coverage Results" MODIFIED="1616830152732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/Stack" />
     <SUITE FILE_PATH="coverage/Python_Algorithm$DoubleLinkedList001.coverage" NAME="DoubleLinkedList001 Coverage Results" MODIFIED="1616596467422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/LinkedList" />
+    <SUITE FILE_PATH="coverage/Python_Algorithm$hash_table1.coverage" NAME="hash_table1 Coverage Results" MODIFIED="1617257041921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/hash" />
     <SUITE FILE_PATH="coverage/Python_Algorithm$LinkedLisrt01.coverage" NAME="LinkedList01 Coverage Results" MODIFIED="1616258038756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/LinkedList" />
+    <SUITE FILE_PATH="coverage/Python_Algorithm$hash_table3.coverage" NAME="hash_table3 Coverage Results" MODIFIED="1617265703766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/hash" />
+    <SUITE FILE_PATH="coverage/Python_Algorithm$hash_table.coverage" NAME="hash_table Coverage Results" MODIFIED="1617254524590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/hash" />
     <SUITE FILE_PATH="coverage/Python_Algorithm$stack02.coverage" NAME="stack02 Coverage Results" MODIFIED="1616830301835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/Stack" />
     <SUITE FILE_PATH="coverage/Python_Algorithm$Queue01.coverage" NAME="Queue01 Coverage Results" MODIFIED="1616830089238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/Queue" />
     <SUITE FILE_PATH="coverage/Python_Algorithm$DoubleLinkedList000.coverage" NAME="DoubleLinkedList000 Coverage Results" MODIFIED="1616420854123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/LinkedList" />
+    <SUITE FILE_PATH="coverage/Python_Algorithm$hash_table2.coverage" NAME="hash_table2 Coverage Results" MODIFIED="1617262441478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_Sturcture/hash" />
   </component>
 </project>

@@ -14,10 +14,10 @@ def save_data(data,value):
 
     if hash_table[hash_address] != 0:
         for index in range(hash_address,len(hash_table)):
-            if hash_table[index] == 0:
+            if hash_table[index] == 0:          #비어있는 슬롯 찾아서 비어있는 첫번쨰 슬롯 삽입
                 hash_table[index] =[index_key,value]
                 return
-            elif hash_table[index][0] == index_key:
+            elif hash_table[index][0] == index_key: #업데이트
                 hash_table[index][1] = value
                 return
     else:
